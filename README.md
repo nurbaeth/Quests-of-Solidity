@@ -6,7 +6,7 @@ Players must solve logic-based challenges by submitting correct answers directly
 No frontend. No rewards. Just pure Solidity brainwork.
   
 ---
-
+  
 ## 🎮 Gameplay 
 
 1. Call `getCurrentQuest()` to get the quest description. 

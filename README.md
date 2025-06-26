@@ -13,7 +13,7 @@ No frontend. No rewards. Just pure Solidity brainwork.
 2. Think. Solve the puzzle.  
 3. Call `submitAnswer("yourAnswer")`.    
 4. If correct → next quest unlocked.   
-5. If wrong → try again.
+5. If wrong → try again.  
   
 Your progress is stored on-chain.
 

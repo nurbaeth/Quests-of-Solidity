@@ -20,7 +20,7 @@ Your progress is stored on-chain.
 ---    
    
 ## 🔐 Example
-
+  
 ```solidity  
 // Quest description: "What Solidity keyword defines a read-only function?"
 submitAnswer("view");

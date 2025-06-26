@@ -1,7 +1,7 @@
 # 🧩 Quests of Solidity    
     
 **Quests of Solidity** is an on-chain puzzle game where each quest is a smart contract level.    
-Players must solve logic-based challenges by submitting correct answers directly on-chain.
+Players must solve logic-based challenges by submitting correct answers directly on-chain.  
   
 No frontend. No rewards. Just pure Solidity brainwork.
   

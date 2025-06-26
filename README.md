@@ -15,7 +15,7 @@ No frontend. No rewards. Just pure Solidity brainwork.
 4. If correct → next quest unlocked.   
 5. If wrong → try again.  
     
-Your progress is stored on-chain.
+Your progress is stored on-chain.   
 
 ---  
    

@@ -16,7 +16,7 @@ No frontend. No rewards. Just pure Solidity brainwork.
 5. If wrong → try again.  
     
 Your progress is stored on-chain.   
-
+  
 ---  
    
 ## 🔐 Example

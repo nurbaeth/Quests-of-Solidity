@@ -23,4 +23,4 @@ Your progress is stored on-chain.
     
 ```solidity   
 // Quest description: "What Solidity keyword defines a read-only function?"  
-submitAnswer("view");
+submitAnswer("view"); 

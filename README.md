@@ -4,7 +4,7 @@
 Players must solve logic-based challenges by submitting correct answers directly on-chain.   
          
 No frontend. No rewards. Just pure Solidity brainwork.     
-     
+      
 ---      
       
 ## 🎮 Gameplay  

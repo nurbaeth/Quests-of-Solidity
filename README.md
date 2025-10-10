@@ -19,7 +19,7 @@ Your progress is stored on-chain.
     
 ---     
     
-## 🔐 Example   
+## 🔐 Example    
     
 ```solidity   
 // Quest description: "What Solidity keyword defines a read-only function?"  

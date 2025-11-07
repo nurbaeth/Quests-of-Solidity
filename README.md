@@ -5,7 +5,7 @@ Players must solve logic-based challenges by submitting correct answers directly
            
 No frontend. No rewards. Just pure Solidity brainwork.       
         
----       
+---        
        
 ## 🎮 Gameplay   
       

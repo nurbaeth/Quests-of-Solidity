@@ -18,7 +18,7 @@ No frontend. No rewards. Just pure Solidity brainwork.
 Your progress is stored on-chain.      
      
 ---      
-    
+     
 ## 🔐 Example    
     
 ```solidity   
